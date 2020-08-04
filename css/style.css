@@ -120,7 +120,12 @@ html {
           "footer content";
          }
         
-        
+        footer {
+            padding-top: 10%;
+            display: flex;
+            justify-content: center;
+            text-align: center;
+        }
          aside{
              padding-left: 10%;
              display: flex;
